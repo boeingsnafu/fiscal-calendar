@@ -1,9 +1,10 @@
-# Fiscal
+# Fiscal Calendar
 
-Parse https://www.dailyfx.com/calendar
+A transplant of @jinahadam's fiscal-master code
+
+See his https://www.dailyfx.com/calendar
 
 *Only works for current week
-
 
 ##todos
 
